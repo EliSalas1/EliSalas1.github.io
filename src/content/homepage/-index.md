@@ -11,7 +11,7 @@ banner:
 
 # Features
 features:
-  - title: "What's Included in Astroplate"
+  - title: "What's Included in Astroplate- arriba"
     image: "/images/service-1.png"
     content: "Astroplate is a comprehensive starter template that includes everything you need to get started with your Astro project. What's Included in Astroplate"
     bulletpoints:
@@ -26,7 +26,7 @@ features:
       label: "Get Started Now"
       link: "#"
 
-  - title: "Discover the Key Features Of Astro"
+  - title: "Discover the Key Features Of Astro- en medio"
     image: "/images/service-2.png"
     content: "Astro is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
     bulletpoints:
@@ -38,7 +38,7 @@ features:
       label: "Get Started Now"
       link: "https://github.com/zeon-studio/astroplate"
 
-  - title: "The Top Reasons to Choose Astro for Your Next Project"
+  - title: "The Top Reasons to Choose Astro for Your Next Project- abajo"
     image: "/images/service-3.png"
     content: "With Astro, you can build modern and content-focused websites without sacrificing performance or ease of use."
     bulletpoints:
