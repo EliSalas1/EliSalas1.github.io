@@ -1,14 +1,14 @@
 ---
 enable: true
-title: "What Users Are Saying About Astroplate"
-description: "Don't just take our word for it - hear from some of our satisfied users!  Check out some of our testimonials below to see what others are saying about Astroplate."
+title: "Creadores que están dando vida a las ideas"
+description: "Personas reales detrás de cada creación"
 
 # Testimonials
 testimonials:
   - name: "Marvin McKinney"
     designation: "Web Designer1"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "Crea herramientas para aprender jugando."
 
   - name: "Marvin McKinney"
     designation: "Web Designer2"

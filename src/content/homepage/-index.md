@@ -3,7 +3,7 @@
 banner:
   title: "Donde las ideas toman forma"
   content: "Descrubre creaciones únicas hechas por manos reales, con hsitoria, propósito y creatividad."
-  image: "/images/artesania.jpg"
+  image: "/images/central.png"
   button:
     enable: true
     label: "Explorar"
